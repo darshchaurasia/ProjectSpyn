@@ -15,6 +15,6 @@
 ![image](https://github.com/darshchaurasia/ProjectSpyn/assets/43368969/719025ed-b313-4a1e-986e-ff62cc40acc5)
 
 
-
+# [AlternateCode] - Superior AI that was unable to operate due to uncertainty in sensor data. Included because I think it was cool and might be interesting to take a look at.
 
 
